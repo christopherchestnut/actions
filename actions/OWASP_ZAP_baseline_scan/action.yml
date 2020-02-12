@@ -4,7 +4,7 @@ inputs:
   target:
     description: 'target of the scan'
     required: true
-
+runs:
 jobs:
  build:
 
